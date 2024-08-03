@@ -1,0 +1,12 @@
+# ignore html files
+*.html
+
+# ignore runtime files
+*.log
+*.cfg
+__pycache__/
+*.pyc
+my_*
+
+# ignore test files
+test_*
